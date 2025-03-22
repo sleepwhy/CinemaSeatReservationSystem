@@ -1,0 +1,10 @@
+C:\Users\why!\Desktop\WindowsFormsAppH6\WindowsFormsAppH6\bin\Debug\WindowsFormsAppH6.exe.config
+C:\Users\why!\Desktop\WindowsFormsAppH6\WindowsFormsAppH6\bin\Debug\WindowsFormsAppH6.exe
+C:\Users\why!\Desktop\WindowsFormsAppH6\WindowsFormsAppH6\bin\Debug\WindowsFormsAppH6.pdb
+C:\Users\why!\Desktop\WindowsFormsAppH6\WindowsFormsAppH6\obj\Debug\CinemaSeatReservationSystem.csproj.AssemblyReference.cache
+C:\Users\why!\Desktop\WindowsFormsAppH6\WindowsFormsAppH6\obj\Debug\WindowsFormsAppH6.FormMain.resources
+C:\Users\why!\Desktop\WindowsFormsAppH6\WindowsFormsAppH6\obj\Debug\WindowsFormsAppH6.Properties.Resources.resources
+C:\Users\why!\Desktop\WindowsFormsAppH6\WindowsFormsAppH6\obj\Debug\CinemaSeatReservationSystem.csproj.GenerateResource.cache
+C:\Users\why!\Desktop\WindowsFormsAppH6\WindowsFormsAppH6\obj\Debug\CinemaSeatReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\why!\Desktop\WindowsFormsAppH6\WindowsFormsAppH6\obj\Debug\WindowsFormsAppH6.exe
+C:\Users\why!\Desktop\WindowsFormsAppH6\WindowsFormsAppH6\obj\Debug\WindowsFormsAppH6.pdb
